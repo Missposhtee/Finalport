@@ -197,6 +197,14 @@ hr.small {
   margin-bottom: 30px;
 }
 
+#new{
+    width:650px;
+    height: 350px;
+    position:relative;
+    top:20px;
+    left:-120px;
+}
+
 
 
 
@@ -224,7 +232,7 @@ hr.small {
 .portfolio-item {
   margin-bottom: 30px;
   width:25vw;
-  height:auto;
+  height:;
 }
 
 .img-portfolio {
