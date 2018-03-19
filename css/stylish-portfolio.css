@@ -231,20 +231,19 @@ hr.small {
 
 .portfolio-item {
   margin-bottom: 30px;
-  width:25vw;
-  height:;
+ /* width:25vw;
+  height:;*/
 }
+
 
 .img-portfolio {
   margin: 0 auto;
+  width: 475px;
+  height: 386px;
 }
 
 .img-portfolio:hover {
   opacity: .8;
-}
-
-.img-rays{
-  border: 2px;
 }
 
 
